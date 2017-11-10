@@ -1,0 +1,9 @@
+D:\FIT3\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\FIT3\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\FIT3\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\FIT3\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\FIT3\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\FIT3\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\FeodoridiGit\AdapterGit\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\FeodoridiGit\AdapterGit\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\FeodoridiGit\AdapterGit\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
